@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Python**
 - 🧠 Interested in **Javascript, Blooket Cheats**
 - 🛠️ Love working with **open-source & personal projects**
-- 📫 Reach me at: **slinkingfox@outlook.com**
+- 📫 Reach me at: **slinkingfox@outlook.com** OR **shot38gamer@gmail.com**
 
 ---
 
