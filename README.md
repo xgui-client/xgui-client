@@ -1,15 +1,15 @@
-# 👋 Hi, I'm <Your Name>
+# 👋 Hi, I'm Xullys!!
 
-🎯 **Aspiring Developer | Problem Solver | Tech Enthusiast**  
-💻 Building cool things with code and learning something new every day.
+🎯 **Developer | Hacker | Tech Enthusiast**  
+💻 Making Blooket cheats for fun
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **<Tech / Language>**
-- 🧠 Interested in **<Web Dev / AI / Game Dev / Cybersecurity / etc.>**
+- 🌱 Currently learning **Python**
+- 🧠 Interested in **Javascript, Blooket Cheats**
 - 🛠️ Love working with **open-source & personal projects**
-- 📫 Reach me at: **<email or link>**
+- 📫 Reach me at: **slinkingfox@outlook.com**
 
 ---
 
@@ -35,16 +35,10 @@
 
 ---
 
-## 🔥 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://yourwebsite.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/xgui-client)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://xgui-client.github.io)
 
 ---
 
-⭐ **Fun Fact:** *Code + curiosity = endless possibilities*
+⭐ **Fun Fact:** *STARTED MAKING BLOOKET CHEATS IN NOVEMBER*
