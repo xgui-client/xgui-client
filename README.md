@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Python**
 - 🧠 Interested in **Javascript, Blooket Cheats**
 - 🛠️ Love working with **open-source & personal projects**
-- 📫 Reach me at: **slinkingfox@outlook.com** OR **shot38gamer@gmail.com**
+- 📫 Reach me at: **slinkingfox@outlook.com** OR **shot38gamer@gmail.com** OR **xullysfr on Discord**
 
 ---
 
@@ -39,6 +39,7 @@
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/xgui-client)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://xgui-client.github.io)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5YEC7GhR)
 
 ---
 
